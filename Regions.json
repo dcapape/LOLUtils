@@ -1,0 +1,130 @@
+[
+  {
+    "Name": "Europe West",
+    "ShortName": "EUW",
+    "PlatformId": "euw1",
+    "Region": "europe",
+    "SpectatorUrl": "spectator.euw1.lol.riotgames.com:80",
+    "APIHost": "euw1.api.riotgames.com"
+  },
+  {
+    "Name": "Europe Nordic \u0026 East",
+    "ShortName": "EUNE",
+    "PlatformId": "eun1",
+    "Region": "europe",
+    "SpectatorUrl": "spectator.eu.lol.riotgames.com:8088",
+    "APIHost": "eun1.api.riotgames.com"
+  },
+  {
+    "Name": "Turkey",
+    "ShortName": "TR",
+    "PlatformId": "tr1",
+    "Region": "europe",
+    "SpectatorUrl": "spectator.tr.lol.riotgames.com:80",
+    "APIHost": "tr1.api.riotgames.com"
+  },
+  {
+    "Name": "Russia",
+    "ShortName": "RU",
+    "PlatformId": "ru",
+    "Region": "europe",
+    "SpectatorUrl": "spectator.ru.lol.riotgames.com:80",
+    "APIHost": "ru.api.riotgames.com"
+  },
+  {
+    "Name": "North America",
+    "ShortName": "NA",
+    "PlatformId": "na1",
+    "Region": "americas",
+    "SpectatorUrl": "spectator-consumer.na1.lol.pvp.net:80",
+    "APIHost": "na1.api.riotgames.com"
+  },
+  {
+    "Name": "Brazil",
+    "ShortName": "BR",
+    "PlatformId": "br1",
+    "Region": "americas",
+    "SpectatorUrl": "spectator.br.lol.riotgames.com:80",
+    "APIHost": "br1.api.riotgames.com"
+  },
+  {
+    "Name": "Latin America North",
+    "ShortName": "LAN",
+    "PlatformId": "la1",
+    "Region": "americas",
+    "SpectatorUrl": "spectator.la1.lol.riotgames.com:80",
+    "APIHost": "la1.api.riotgames.com"
+  },
+  {
+    "Name": "Latin America South",
+    "ShortName": "LAS",
+    "PlatformId": "la2",
+    "Region": "americas",
+    "SpectatorUrl": "spectator.la2.lol.riotgames.com:80",
+    "APIHost": "la2.api.riotgames.com"
+  },
+  {
+    "Name": "Korea",
+    "ShortName": "KR",
+    "PlatformId": "kr",
+    "Region": "asia",
+    "SpectatorUrl": "spectator.kr.lol.riotgames.com:80",
+    "APIHost": "kr.api.riotgames.com"
+  },
+  {
+    "Name": "Japan",
+    "ShortName": "JP",
+    "PlatformId": "jp1",
+    "Region": "asia",
+    "SpectatorUrl": "spectator-consumer.jp1.lol.pvp.net:80",
+    "APIHost": "jp1.api.riotgames.com"
+  },
+  {
+    "Name": "Taiwan",
+    "ShortName": "TW",
+    "PlatformId": "tw2",
+    "Region": "asia",
+    "SpectatorUrl": "spectator-consumer.tw2.lol.pvp.net:80",
+    "APIHost": "tw2.api.riotgames.com"
+  },
+  {
+    "Name": "Oceania",
+    "ShortName": "OCE",
+    "PlatformId": "oc1",
+    "Region": "sea",
+    "SpectatorUrl": "spectator-consumer.oc1.lol.pvp.net:80",
+    "APIHost": "oc1.api.riotgames.com"
+  },
+  {
+    "Name": "Philippines",
+    "ShortName": "PH",
+    "PlatformId": "ph2",
+    "Region": "sea",
+    "SpectatorUrl": "spectator-consumer.ph2.lol.pvp.net:80",
+    "APIHost": "ph2.api.riotgames.com"
+  },
+  {
+    "Name": "Singapore",
+    "ShortName": "SG",
+    "PlatformId": "sg2",
+    "Region": "sea",
+    "SpectatorUrl": "spectator-consumer.sg2.lol.pvp.net:80",
+    "APIHost": "sg2.api.riotgames.com"
+  },
+  {
+    "Name": "Thailand",
+    "ShortName": "TH",
+    "PlatformId": "th2",
+    "Region": "sea",
+    "SpectatorUrl": "spectator-consumer.th2.lol.pvp.net:80",
+    "APIHost": "th2.api.riotgames.com"
+  },
+  {
+    "Name": "Vietnam",
+    "ShortName": "VN",
+    "PlatformId": "vn2",
+    "Region": "sea",
+    "SpectatorUrl": "spectator-consumer.vn2.lol.pvp.net:80",
+    "APIHost": "vn2.api.riotgames.com"
+  }
+]
